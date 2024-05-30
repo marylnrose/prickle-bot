@@ -103,7 +103,7 @@ class PrickleBot:
 
     def main(self):
         banner = f"""
-           {self.red}Prickle Bot Auto Claim
+           {self.red}Prick Bot Auto Claim
            {self.blue}by: marylnrose
           """
         if "noclear" not in sys.argv:
