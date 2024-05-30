@@ -1,0 +1,6 @@
+{
+  "telegram_id": 12345,
+  "clicks": 5,
+  "delay_click_in_ms": 1000,
+  "delay_empty_energy_in_second": 1800
+}
